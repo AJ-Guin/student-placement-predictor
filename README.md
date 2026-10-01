@@ -377,7 +377,7 @@ Through this project, I practiced:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AJ-Guin/student-placement-predictor
 ```
 
 ### 2. Navigate to the Project
