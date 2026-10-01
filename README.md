@@ -383,7 +383,7 @@ git clone https://github.com/AJ-Guin/student-placement-predictor
 ### 2. Navigate to the Project
 
 ```bash
-cd student-placement-prediction
+cd student-placement-predictor
 ```
 
 ### 3. Install Dependencies
@@ -409,7 +409,7 @@ jupyter notebook
 ## 📁 Project Structure
 
 ```text
-Student-Placement-Prediction/
+student-placement-predictor/
 │
 ├── placement.csv
 ├── placement_prediction.ipynb
